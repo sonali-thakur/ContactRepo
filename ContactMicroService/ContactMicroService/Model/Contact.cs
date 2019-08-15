@@ -46,8 +46,6 @@ namespace ContactMicroService.Model
 		[StringLength(10,ErrorMessage ="",MinimumLength =10)]
 		[Display(Name = "Phone Number")]
 		[DataType(DataType.PhoneNumber)]
-		//[RegularExpression(@"[^0-9]", ErrorMessage = "Invalid Phone number")]
-		//[RegularExpression(@"^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$", ErrorMessage = "Invalid Phone number")]
 		public string PhoneNumber { get; set; }
 
 		/// <summary>
