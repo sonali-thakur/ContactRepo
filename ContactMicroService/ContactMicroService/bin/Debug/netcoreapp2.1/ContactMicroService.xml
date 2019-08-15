@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ContactMicroService</name>
+    </assembly>
+    <members>
+        <member name="T:ContactMicroService.DBContext.ContactContext">
+            <summary>
+            Entity framework context class for Contact
+            </summary>
+        </member>
+        <member name="P:ContactMicroService.DBContext.ContactContext.Contacts">
+            <summary>
+            dbset for Contact
+            </summary>
+        </member>
+        <member name="M:ContactMicroService.DBContext.ContactContext.#ctor(Microsoft.EntityFrameworkCore.DbContextOptions{ContactMicroService.DBContext.ContactContext})">
+            <summary>
+            Constructor of ContactContext class
+            </summary>
+            <param name="options"></param>
+        </member>
+        <member name="T:ContactMicroService.Model.Contact">
+            <summary>
+            COntact Model class
+            </summary>
+        </member>
+        <member name="P:ContactMicroService.Model.Contact.ContactId">
+            <summary>
+            class property
+            </summary>
+        </member>
+        <member name="P:ContactMicroService.Model.Contact.FirstName">
+            <summary>
+            class property
+            </summary>
+        </member>
+        <member name="P:ContactMicroService.Model.Contact.LastName">
+            <summary>
+            class property
+            </summary>
+        </member>
+        <member name="P:ContactMicroService.Model.Contact.Email">
+            <summary>
+            class property
+            </summary>
+        </member>
+        <member name="P:ContactMicroService.Model.Contact.PhoneNumber">
+            <summary>
+            class property
+            </summary>
+        </member>
+        <member name="P:ContactMicroService.Model.Contact.Status">
+            <summary>
+            class property
+            </summary>
+        </member>
+        <member name="T:ContactMicroService.Repository.ContactRepository">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:ContactMicroService.Repository.ContactRepository.#ctor(ContactMicroService.DBContext.ContactContext)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="dbContext"></param>
+        </member>
+        <member name="M:ContactMicroService.Repository.ContactRepository.AddContact(ContactMicroService.Model.Contact)">
+            <summary>
+            function to add new contact detail
+            </summary>
+            <param name="contact">contact class object</param>
+        </member>
+        <member name="M:ContactMicroService.Repository.ContactRepository.DeleteContact(System.Int32)">
+            <summary>
+            function to delete contact
+            </summary>
+            <param name="contactid">contact id</param>
+        </member>
+        <member name="M:ContactMicroService.Repository.ContactRepository.GetContacts">
+            <summary>
+            function to get all contact information
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ContactMicroService.Repository.ContactRepository.Save">
+            <summary>
+            function to save action in dbcontext
+            </summary>
+        </member>
+        <member name="M:ContactMicroService.Repository.ContactRepository.UpdateContact(ContactMicroService.Model.Contact)">
+            <summary>
+            function to edit contact details. We will change status active/Inactive from here.
+            </summary>
+            <param name="contact"></param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,15 @@
+C:\Users\Asus\Project\ContactMicroService\ContactMicroService\bin\Debug\netcoreapp2.1\ContactMicroService.deps.json
+C:\Users\Asus\Project\ContactMicroService\ContactMicroService\bin\Debug\netcoreapp2.1\ContactMicroService.runtimeconfig.json
+C:\Users\Asus\Project\ContactMicroService\ContactMicroService\bin\Debug\netcoreapp2.1\ContactMicroService.runtimeconfig.dev.json
+C:\Users\Asus\Project\ContactMicroService\ContactMicroService\bin\Debug\netcoreapp2.1\ContactMicroService.dll
+C:\Users\Asus\Project\ContactMicroService\ContactMicroService\bin\Debug\netcoreapp2.1\ContactMicroService.pdb
+C:\Users\Asus\Project\ContactMicroService\ContactMicroService\bin\Debug\netcoreapp2.1\ContactMicroService.xml
+C:\Users\Asus\Project\ContactMicroService\ContactMicroService\obj\Debug\netcoreapp2.1\ContactMicroService.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Project\ContactMicroService\ContactMicroService\obj\Debug\netcoreapp2.1\ContactMicroService.RazorAssemblyInfo.cache
+C:\Users\Asus\Project\ContactMicroService\ContactMicroService\obj\Debug\netcoreapp2.1\ContactMicroService.RazorAssemblyInfo.cs
+C:\Users\Asus\Project\ContactMicroService\ContactMicroService\obj\Debug\netcoreapp2.1\ContactMicroService.AssemblyInfoInputs.cache
+C:\Users\Asus\Project\ContactMicroService\ContactMicroService\obj\Debug\netcoreapp2.1\ContactMicroService.AssemblyInfo.cs
+C:\Users\Asus\Project\ContactMicroService\ContactMicroService\obj\Debug\netcoreapp2.1\ContactMicroService.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Project\ContactMicroService\ContactMicroService\obj\Debug\netcoreapp2.1\ContactMicroService.dll
+C:\Users\Asus\Project\ContactMicroService\ContactMicroService\obj\Debug\netcoreapp2.1\ContactMicroService.pdb
+C:\Users\Asus\Project\ContactMicroService\ContactMicroService\obj\Debug\netcoreapp2.1\ContactMicroService.csprojAssemblyReference.cache
